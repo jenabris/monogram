@@ -9,12 +9,12 @@ dependencies:
   - r-RColorBrewer
   - r-pheatmap
   - r-ggplot2
+  - r-ggrepel
   - bioconductor-DEGreport
   - bioconductor-tximport
   - bioconductor-DOSE
   - bioconductor-pathview
   - bioconductor-clusterProfiler
-  - bioconductor-ggrepel
   - bioconductor-gage
   - bioconductor-gageData
   - bioconductor-DESeq2
