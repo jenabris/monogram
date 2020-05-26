@@ -1,0 +1,21 @@
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.0
+  - r-tidyverse
+  - r-readr
+  - r-tidyverse
+  - r-RColorBrewer
+  - r-pheatmap
+  - r-ggplot2
+  - bioconductor-DEGreport
+  - bioconductor-tximport
+  - bioconductor-DOSE
+  - bioconductor-pathview
+  - bioconductor-clusterProfiler
+  - bioconductor-ggrepel
+  - bioconductor-gage
+  - bioconductor-gageData
+  - bioconductor-DESeq2
+  
